@@ -19,7 +19,8 @@ This project implements the provided Figma design using Flutter with a clean arc
 ## Screenshots
 
 ### Home Screen
-![Home](screenshots/home.jpeg)
+![home](https://github.com/user-attachments/assets/621c7776-328d-4c04-bab1-9f6abe8c624d)
 
 ### Profile Screen
-![Profile](screenshots/profile.jpeg)
+![profile](https://github.com/user-attachments/assets/405da60b-2fbf-4d76-95aa-c3902e984696)
+
